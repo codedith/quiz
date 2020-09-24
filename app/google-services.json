@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674238667170",
+    "firebase_url": "https://quizsthan.firebaseio.com",
+    "project_id": "quizsthan",
+    "storage_bucket": "quizsthan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674238667170:android:f5665a481342119eff3afb",
+        "android_client_info": {
+          "package_name": "com.xcrino.mcqproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674238667170-o26bgsinut3qa18chhd4chdiospvmdoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xcrino.mcqproject",
+            "certificate_hash": "f7c141ff91d9a90006815dfa3658a12a46128e24"
+          }
+        },
+        {
+          "client_id": "674238667170-hke4q0fb8otcrsrap8ento6vsdhpcklj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOXQpfq1PfJPDAtt0rlgoi574LSkQNJeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674238667170-u6lnim30rpp3f7cne8tmvnt8e2ejrel5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

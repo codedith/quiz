@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3a4063</color>
+    <color name="colorPrimaryDark">#353c53</color>
+    <color name="colorAccent">#c9616e</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="text_black">#505050</color>
+    <color name="light_black">#434343</color>
+    <color name="drawer_bg">#2d2a33</color>
+    <color name="bg_purple">#584a97</color>
+
+    <color name="gradient_start">#5770f3</color>
+    <color name="gradient_end">#8e5aeb</color>
+    <color name="profile_desc">#D1D1FF</color>
+    <color name="bg_meta_container">#000000</color>
+    <color name="profile_default_tint">#e0e0e0</color>
+
+    <color name="subscription_bg_f">#64dda5</color>
+    <color name="subscription_bg_">#58D39A</color>
+    <color name="subscription_bg_sec">#57a9ff</color>
+    <color name="subscription_bg_th">#ff6f6f</color>
+    <color name="subscription_bg_faurth">#f6ad20</color>
+    <color name="subscription_bg_five">#df8fff</color>
+
+    <color name="colorGreen">#009eb1</color>
+    <color name="button_blue">#49ACFC</color>
+    <color name="button_purple">#E760D2</color>
+    <color name="button_peach">#F15959</color>
+    <color name="button_pink">#F04A6F</color>
+</resources>
